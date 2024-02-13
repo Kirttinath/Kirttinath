@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Akrabhi Softlabs**
 
-- 🌱 I’m currently learning **React with Typescript**
+- 🌱 I’m currently learning **React and NextJs with Typescript**
 
 - 📫 How to reach me **kirttinathojha000@gmail.com**
 
