@@ -36,7 +36,7 @@
 <h3 align="right">Support:</h3>
 <p><a href="https://ko-fi.com/kirttinathojha"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kirttinathojha" /></a></p><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirttinath&show_icons=true&locale=en&layout=compact" alt="kirttinath" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirttinath&show_icons=true&locale=en&layout=compact" alt="kirttinath" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kirttinath&show_icons=true&locale=en" alt="kirttinath" /></p>
 
