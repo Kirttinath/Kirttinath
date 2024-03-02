@@ -85,7 +85,9 @@
 
 <br clear="both">
 
-<p align="center" height="50px" width="100px"> <img src="https://komarev.com/ghpvc/?username=kirttinath&label=Profile%20views&color=0e75b6&style=flat" alt="kirttinath" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirttinath" alt="kirttinath" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/kojha45" target="blank"><img src="https://img.shields.io/twitter/follow/kojha45?logo=twitter&style=for-the-badge" alt="kojha45" /></a> </p>
 
 ###
 
