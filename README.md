@@ -89,5 +89,5 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kirttinath&label=Profile%20views&color=0e75b6&style=flat" alt="kirttinath" /> </p>
 <h2 align="center">Thank You for your time to know me💖🤗</h2>
-
+<img src="https://raw.githubusercontent.com/Kirttinath/Kirttinath/output/snake.svg" alt="Snake animation" />
 ###
