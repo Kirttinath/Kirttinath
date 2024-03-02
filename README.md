@@ -85,7 +85,7 @@
 
 <br clear="both">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kirttinath&label=Profile%20views&color=0e75b6&style=flat" alt="kirttinath" /> </p>
+<p align="center" height="50px" width="100px"> <img src="https://komarev.com/ghpvc/?username=kirttinath&label=Profile%20views&color=0e75b6&style=flat" alt="kirttinath" /> </p>
 
 ###
 
