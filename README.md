@@ -54,11 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-
-
-
-
-    <h3 align="center">💻Social & Technical connects👨‍💻</h3>
+<br/><br/>
+ <h3>💻Social & Technical connects👨‍💻</h3>
   <a href="https://www.linkedin.com/in/kirttinath-ojha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
