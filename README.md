@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Kirttinath Ojha an enthusiastic Frontend Developer👤💻</h1>
+<h1 align="center">Hi 👋! My name is <b><i>Kirttinath Ojha</i></b> an enthusiastic <b><i>Frontend Developer👤💻</i></b></h1>
 
 
 
