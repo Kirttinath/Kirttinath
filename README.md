@@ -87,12 +87,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirttinath" alt="kirttinath" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/kojha45" target="blank"><img src="https://img.shields.io/twitter/follow/kojha45?logo=twitter&style=for-the-badge" alt="kojha45" /></a> </p>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kirttinath.Kirttinath&left_color=antiquewhite&right_color=aquamarine"  />
-</div>
 
 ###
