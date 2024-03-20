@@ -90,4 +90,4 @@
   <img src="https://profile-counter.glitch.me/kirttinath/count.svg" />
 </p>
 
-<h2 align="center">Thank You for your time to know me💖🤗</h2>
+<h2 align="center">Thank You For Your Time To Know Me💖🤗</h2>
