@@ -85,6 +85,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirttinath" alt="kirttinath" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kirttinath&label=Profile%20views&color=0e75b6&style=flat" alt="kirttinath" /> </p>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/kirttinath/count.svg" />
+</p>
 
 <h2 align="center">Thank You for your time to know me💖🤗</h2>
